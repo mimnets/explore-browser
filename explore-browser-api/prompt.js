@@ -14,3 +14,8 @@ const askSomething = () =>{
         alert('You are dismiss!')
     }
 }
+
+const getUserInfo = () =>{
+    const name = prompt('Tell us your name?')
+    console.log(name)
+}
